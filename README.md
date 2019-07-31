@@ -1,5 +1,5 @@
-# newOptlyQueryParameter
-This code provides the ability to QA experiments and variations while respecting audience conditions in Optimizely Web. This code buckets visitors into an experiment and variation based on defined values in a query parameter.
+# bucketVisitorQueryParameter
+This code provides the ability to bucket users into experiments and variations while respecting audience conditions in Optimizely Web. This is used mainly for QA purposes.
 
 This code can be added to ProjectJS. 
 
